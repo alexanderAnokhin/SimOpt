@@ -12,7 +12,7 @@ This repository is primarily for Simulation Optimization seminar at the Universi
   6. Experiments.R - script with experiments 
 
 ## Experiments
-All experiments can be reproduced sourcing Experiments.R script. It will take up to 2 days, so data can be simply loaded from data/ folder to save time.
+All experiments can be reproduced sourcing Experiments.R script. It will take up to 2 days, otherwise data can be simply loaded from data/ folder to save time.
 
 Alexander Anokhin, Jan 29, 2016
 
